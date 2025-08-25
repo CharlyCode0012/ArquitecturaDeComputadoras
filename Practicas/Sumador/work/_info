@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Pruebas
+v_and_TB
+Z0 !s110 1756146878
+!i10b 1
+!s100 Gc@cWVKd[O<_mdV<aTl6[2
+I>^Nk1Red:VR@kNM0aeLV^3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Sumador
+w1756146516
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Sumador/test_bench.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Sumador/test_bench.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1756146878.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Sumador/test_bench.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Sumador/test_bench.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@_and_@t@b
+v_sum
+!s110 1756143746
+!i10b 1
+!s100 KUU7J=jl8F^NmPX2J:GW@0
+IRoeA?];7BJJFBHaM^YPWV2
+R1
+R2
+w1756143735
+8D:\Storage\School\CUCEI\4to\5.- Aquitectura de computadoras\Arquitectura_de_Computadoras\Practicas\Sumador\_sum.v
+FD:\Storage\School\CUCEI\4to\5.- Aquitectura de computadoras\Arquitectura_de_Computadoras\Practicas\Sumador\_sum.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1756143746.000000
+!s107 D:\Storage\School\CUCEI\4to\5.- Aquitectura de computadoras\Arquitectura_de_Computadoras\Practicas\Sumador\_sum.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Storage\School\CUCEI\4to\5.- Aquitectura de computadoras\Arquitectura_de_Computadoras\Practicas\Sumador\_sum.v|
+!i113 1
+R5
+R6
+n@_sum
+vHA
+R0
+!i10b 1
+!s100 hXHMKR55YT?@z<>jz72@e1
+IJ>Pc:QY3^GZ2l5GMK?Z^D0
+R1
+R2
+w1756146229
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Sumador/_sum.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Sumador/_sum.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Sumador/_sum.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Sumador/_sum.v|
+!i113 1
+R5
+R6
+n@h@a
