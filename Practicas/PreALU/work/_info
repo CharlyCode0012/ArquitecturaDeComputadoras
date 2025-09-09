@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+v_preALU
+!s110 1756695535
+!i10b 1
+!s100 DBnO2IIG;IG[:IUcia2I=3
+IkVlgYz?mcSROI8VG>6_YI3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/PreALU
+w1756695051
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/PreALU/_preALU.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/PreALU/_preALU.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1756695535.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/PreALU/_preALU.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/PreALU/_preALU.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@_pre@a@l@u
+v_preALU_TB
+!s110 1756696863
+!i10b 1
+!s100 58g03mF0J[A_1YCHgK^0A0
+I3PZ<Q^4?C6PWJolRh;o1Q0
+R0
+R1
+w1756696827
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/PreALU/_preALU_TB.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/PreALU/_preALU_TB.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1756696863.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/PreALU/_preALU_TB.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/PreALU/_preALU_TB.v|
+!i113 1
+R3
+R4
+n@_pre@a@l@u_@t@b
