@@ -9,7 +9,7 @@ module SRAM_A (address, out_data, in_data, EN);
     reg [7:0] RAM [0:10];
 
 //3.- Cuerpo del modulo
-    initial @* begin
+    initial begin
         RAM[0] = 8'd90;
         RAM[1] = 8'd80;
         RAM[2] = 8'd70;

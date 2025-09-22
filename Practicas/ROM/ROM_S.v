@@ -8,7 +8,7 @@ module ROM_S (address, out_data, clk);
     reg [7:0] ROM_S [0:10];
 
 //3.- Cuerpo del modulo
-    initial @* begin
+    initial begin
         ROM_S[0] = 8'd90;
         ROM_S[1] = 8'd80;
         ROM_S[2] = 8'd70;

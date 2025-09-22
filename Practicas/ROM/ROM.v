@@ -7,7 +7,7 @@ module ROM (address, out_data);
     reg [7:0] ROM [0:10];
 
 //3.- Cuerpo del modulo
-    initial @* begin
+    initial begin
         ROM[0] = 8'd90;
         ROM[1] = 8'd80;
         ROM[2] = 8'd70;
@@ -18,7 +18,7 @@ module ROM (address, out_data);
         ROM[7] = 8'd20;
         ROM[8] = 8'd10;
         ROM[9] = 8'd100;
-        ROM[10] = 8'd101;
+        ROM[10] = 8'd101; 
     end
     always @* begin
         out_data = ROM[address];    

@@ -1,6 +1,6 @@
 `timescale 1ns/1ns
 
-module SROM_A_TB();
+module ROM_A_TB();
     reg [7:0]addressTB;
     wire [7:0]out_dataTB;
 
@@ -8,15 +8,15 @@ module SROM_A_TB();
     
 
     initial begin
-        addressTB = 9;
+        addressTB = 8'd9;
         #100;
-        addressTB = 1;
+        addressTB = 8'd1;
         #100;
-        addressTB = 3;
+        addressTB = 8'd3;
         #100;
-        addressTB = 5;
+        addressTB = 8'd5;
         #100;
-        addressTB = 7;
+        addressTB = 8'd7;
         #100;
         $stop;
     end

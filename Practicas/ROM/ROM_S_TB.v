@@ -7,19 +7,25 @@ module ROM_S_TB();
 
     ROM_S DUV(.address(addressTB), .out_data(out_dataTB), .clk(clkTB));
 
-    initial clkTB = 0;
-    always #5 clkTB = ~clkTB;
+    initial begin 
+        clkTB = 0;
+    end
+
+    always begin 
+        #50 clkTB = ~clkTB; 
+    end
 
     initial begin
-        addressTB = 9;
+        addressTB = 8'd9;
         @(posedge clkTB);
-        addressTB = 1;
+        addressTB = 8'd1;
         @(posedge clkTB);
-        addressTB = 3;
+        addressTB = 8'd3;
         @(posedge clkTB);
-        addressTB = 5;
+        addressTB = 8'd5;
         @(posedge clkTB);
-        addressTB = 7;
+        addressTB = 8'd7;
+        @(posedge clkTB);
         @(posedge clkTB);
         $stop;
     end
