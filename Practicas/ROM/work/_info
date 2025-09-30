@@ -8,3 +8,223 @@ z2
 !i10f 100
 cModel Technology
 dD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Test
+vBankRegister
+!s110 1758587264
+!i10b 1
+!s100 Nzc2XCHn`VMPd[PBWGHG?3
+I:NDn0a4DMecEGMBa2bFPn1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/intelFPGA/18.1
+w1758587126
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/BankRegister.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/BankRegister.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1758587264.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/BankRegister.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/BankRegister.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@bank@register
+vBR_TB
+Z5 !s110 1758587245
+!i10b 1
+!s100 `ln:BW_I;h_ThWhJW1^jM2
+IW`XM;2QXK2K>k?:iHBz;c3
+R0
+R1
+w1758566243
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/BR_TB.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/BR_TB.v
+L0 2
+R2
+r1
+!s85 0
+31
+Z6 !s108 1758587245.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/BR_TB.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/BR_TB.v|
+!i113 1
+R3
+R4
+n@b@r_@t@b
+vROM
+R5
+!i10b 1
+!s100 ;gi@lamC78iM5APQ@=6V<3
+IEKk_cR[i?S@QX];j<4Nng3
+R0
+R1
+Z7 w1758521329
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM.v
+L0 2
+R2
+r1
+!s85 0
+31
+R6
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM.v|
+!i113 1
+R3
+R4
+n@r@o@m
+vROM_A_TB
+R5
+!i10b 1
+!s100 ngJUh0[3S:o`DE@zgJf4X0
+IXcnRECfb>Fihf?UKajGGn3
+R0
+R1
+R7
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM_A_TB.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM_A_TB.v
+L0 3
+R2
+r1
+!s85 0
+31
+R6
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM_A_TB.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM_A_TB.v|
+!i113 1
+R3
+R4
+n@r@o@m_@a_@t@b
+vROM_S
+R5
+!i10b 1
+!s100 KBf<mEl[llh4;B]oTTXa=2
+IIk7oTMZO]FZ1dU;hQGo`B0
+R0
+R1
+R7
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM_S.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM_S.v
+L0 2
+R2
+r1
+!s85 0
+31
+R6
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM_S.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM_S.v|
+!i113 1
+R3
+R4
+n@r@o@m_@s
+vROM_S_TB
+R5
+!i10b 1
+!s100 YNNe95^i1nMIMNMYXJZ<e0
+IRQ7TB9N@86zY_WF9>5X;d3
+R0
+R1
+R7
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM_S_TB.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM_S_TB.v
+L0 3
+R2
+r1
+!s85 0
+31
+R6
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM_S_TB.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM_S_TB.v|
+!i113 1
+R3
+R4
+n@r@o@m_@s_@t@b
+vSRAM_A
+R5
+!i10b 1
+!s100 zS2jBF32d5gknS[Mh8=S42
+Ij@GjVoR_RG1d=M;PC4@1]0
+R0
+R1
+R7
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_A.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_A.v
+L0 2
+R2
+r1
+!s85 0
+31
+R6
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_A.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_A.v|
+!i113 1
+R3
+R4
+n@s@r@a@m_@a
+vSRAM_A_TB
+R5
+!i10b 1
+!s100 FS7PYM_EFB6ak>0K0=I280
+IhQXFEl04S74<LEbnM`:N20
+R0
+R1
+R7
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_A_TB.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_A_TB.v
+L0 3
+R2
+r1
+!s85 0
+31
+R6
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_A_TB.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_A_TB.v|
+!i113 1
+R3
+R4
+n@s@r@a@m_@a_@t@b
+vSRAM_S
+R5
+!i10b 1
+!s100 8Z980_N:D5dZLf@l?CNLI0
+ICRd;zRX>TS^e6?ChJYNh70
+R0
+R1
+R7
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_S.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_S.v
+L0 2
+R2
+r1
+!s85 0
+31
+R6
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_S.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_S.v|
+!i113 1
+R3
+R4
+n@s@r@a@m_@s
+vSRAM_S_TB
+!s110 1758587246
+!i10b 1
+!s100 PnkV^LXlG9CF`9zJeak801
+I165n7HT@<femKcSJz>5JB2
+R0
+R1
+R7
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_S_TB.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_S_TB.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_S_TB.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/SRAM_S_TB.v|
+!i113 1
+R3
+R4
+n@s@r@a@m_@s_@t@b

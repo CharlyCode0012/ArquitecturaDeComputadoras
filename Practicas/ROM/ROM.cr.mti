@@ -1,1 +1,8 @@
+{D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM.v} {1 {vlog -work work -stats=none {D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/ROM/ROM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ROM
 
+Top level modules:
+	ROM
+
+} {} {}}

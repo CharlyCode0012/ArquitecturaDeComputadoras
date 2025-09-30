@@ -20,6 +20,7 @@ module ROM (address, out_data);
         ROM[9] = 8'd100;
         ROM[10] = 8'd101; 
     end
+    //4.- Implementacion del modulo
     always @* begin
         out_data = ROM[address];    
     end
