@@ -70,12 +70,12 @@ class MIPSTranslator:
             'dark': '#34495E'
         }
         
-        # Configurar estilos básicos para mejor rendimiento
+        # Configurar estilos básicos
         style.configure('TFrame', background=self.colors['secondary'])
         style.configure('TLabel', background=self.colors['secondary'], foreground=self.colors['light'], font=('Segoe UI', 9))
         style.configure('Title.TLabel', background=self.colors['secondary'], foreground=self.colors['light'], font=('Segoe UI', 14, 'bold'))
         
-        # Configurar botones de forma más simple y visible
+        # Configurar botones
         style.configure('TButton', 
                        font=('Segoe UI', 9, 'bold'), 
                        padding=(8, 4),
@@ -152,12 +152,12 @@ SW $5, 200($4)"""
         controls_frame = ttk.Frame(main_frame)
         controls_frame.pack(fill=tk.X, pady=10)
         
-        # Botón de traducción - CON ESTILO MEJORADO
+        # Botón de traducción 
         translate_btn = ttk.Button(
             controls_frame, 
             text="🔍 Traducir Código", 
             command=self.translate,
-            style='TButton'  # Usar estilo base mejorado
+            style='TButton'  # Usar estilo base
         )
         translate_btn.pack(side=tk.LEFT, padx=(0, 10))
         
