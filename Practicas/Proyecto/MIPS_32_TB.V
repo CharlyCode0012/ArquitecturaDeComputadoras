@@ -26,8 +26,8 @@ module MIPS32_TB;
         #20;          // un ratito en reset
         reset = 0;    // sueltas el procesador
 
-        #2000;        // deja correr N ns (ajusta a lo que necesites)
-        $finish;
+        #100;        // deja correr N ns (ajusta a lo que necesites)
+        $stop;
     end
 
     // Monitoreo: PC, instrucción actual y R30
@@ -40,5 +40,4 @@ module MIPS32_TB;
                  DUV.rf0.RF[30]      // registro 30 del banco
         );
     end
-
 endmodule
