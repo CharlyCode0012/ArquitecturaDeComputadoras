@@ -1,0 +1,54 @@
+// Suma y conteo de números positivos y pares en un arreglo
+// Layout de memoria:
+//  0..7  : array[0..7]
+//  8     : N (tamaño del array)
+//  9     : sum
+//  10    : count
+
+// Convención de registros (todos numéricos):
+//  $30 : base de datos (0)
+//  $29 : N
+//  $28 : sum
+//  $27 : count
+//  $26 : i (índice)
+//  $25 : valor actual array[i]
+//  $24 : tmp_paridad
+//  $23 : tmp_cmp
+//  $22 : dirección temporal
+
+//Inicialización
+ADDI $30, $0, 0      // $30 = base de datos (0)
+LW   $29, 32($30)    // $29 = N (palabra en byte offset 32)
+ADDI $28, $0, 0      // $28 = sum = 0
+ADDI $27, $0, 0      // $27 = count = 0
+ADDI $26, $0, 0      // $26 = i = 0
+
+//LOOP (instr 5)
+BEQ  $26, $29, 12    // si i == N, salto a 'fin' (offset = 12 instrucciones)
+
+// calcular &array[i]
+SLL  $22, $26, 2     // $22 = i * 4
+ADD  $22, $22, $30   // $22 = base + i*4
+LW   $25, 0($22)     // $25 = array[i]
+
+//Checar si es positivo (>0)
+SLTI $23, $25, 1     // $23 = 1 si $25 < 1, 0 si $25 >= 1
+BEQ  $23, $0, 1      // si $25 >= 1 (positivo), saltar 1 instrucción a check_even
+J    16              // si no es positivo, brincar a next_i (instr 16)
+
+//check_even (instr 12)
+ANDI $24, $25, 1     // $24 = $25 & 1
+BNE  $24, $0, 2      // si impar (bit0=1), saltar 2 instrucciones a next_i
+ADD  $28, $28, $25   // sum += valor
+ADDI $27, $27, 1     // count++
+
+//next_i (instr 16)
+ADDI $26, $26, 1     // i++
+J    5               // volver al inicio del loop (instr 5)
+
+//fin (instr 18)
+SW   $28, 36($30)    // sum   -> palabra en byte offset 36
+SW   $27, 40($30)    // count -> palabra en byte offset 40
+
+// bucle infinito final (instr 20)
+J    20              // salto a sí mismo

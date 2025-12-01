@@ -1,3 +1,5 @@
+`timescale 1ns/1ns
+
 module SRAM_S_TB();
     reg [7:0] addressTB;
     reg [7:0] in_dataTB;

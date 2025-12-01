@@ -1,0 +1,559 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas
+vADD
+!i10b 1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!s100 4N=:oHj3G;QnaoYakd:W90
+I4FHjcnf7ZM]lGh<1`E1:D0
+Z1 dD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto
+w1764554440
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ADD.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ADD.v
+L0 1
+Z2 OV;L;10.5b;63
+!s108 1764576648.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ADD.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ADD.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@a@d@d
+vALU
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 ?<]9]>]TF`fnTmdmU9Q]K1
+I95eO;l27iJkL<<EhSHNX:2
+R1
+w1764560907
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALU.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALU.v
+L0 3
+R2
+!s108 1764576652.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALU.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALU.v|
+!i113 1
+R3
+R4
+n@a@l@u
+vALU_TB
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 3;f:Da]iG1bWTEj]7JMHf2
+IKHn=j`EVV=V^;J3l:DH9o2
+R1
+w1764561160
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALU_TB.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALU_TB.v
+L0 4
+R2
+Z5 !s108 1764576633.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALU_TB.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALU_TB.v|
+!i113 1
+R3
+R4
+n@a@l@u_@t@b
+vALUControl
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 Q<V^HXDPjkVk:Xi;6C9jM0
+ICLaL4AP4[K_?OZDd4:VkB0
+R1
+w1764561374
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALUControl.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALUControl.v
+L0 3
+R2
+!s108 1764576656.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALUControl.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALUControl.v|
+!i113 1
+R3
+R4
+n@a@l@u@control
+vALUControl_TB
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 kD:BRgY67nj?FIAESCaM;2
+IbBd2EG=AO]cNFMQ^doY?e2
+R1
+w1764561563
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALUControl_TB.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALUControl_TB.v
+L0 4
+R2
+R5
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALUControl_TB.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ALUControl_TB.v|
+!i113 1
+R3
+R4
+n@a@l@u@control_@t@b
+vControlUnit
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 lTHiU=ZW>3=OXf5`z5dz=1
+IT7^UZ7=6=iS]i?dNhUj?k2
+R1
+w1764560887
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ControlUnit.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ControlUnit.v
+L0 3
+R2
+!s108 1764576662.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ControlUnit.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ControlUnit.v|
+!i113 1
+R3
+R4
+n@control@unit
+vControlUnit_TB
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 4EPLRZYOl5@>TX=i=YdFc3
+I[9MkoH8D;4IV;UTX[[z692
+R1
+w1764561070
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ControlUnit_TB.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ControlUnit_TB.v
+L0 5
+R2
+R5
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ControlUnit_TB.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ControlUnit_TB.v|
+!i113 1
+R3
+R4
+n@control@unit_@t@b
+vDataMemory
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 g4efm;0@;X1D9VamP4n5B1
+IPEG^4QWQc_F0^z]K6?P>T1
+R1
+w1764568183
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/DataMemory.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/DataMemory.v
+L0 3
+R2
+!s108 1764576666.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/DataMemory.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/DataMemory.v|
+!i113 1
+R3
+R4
+n@data@memory
+vDataMemory_TB
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 T37I<z=01f16ibzY2D@k53
+I0oQ=59z=8DJnFFo]Cfcaz3
+R1
+w1764560558
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/DataMemory_TB.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/DataMemory_TB.v
+L0 5
+R2
+!s108 1764576634.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/DataMemory_TB.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/DataMemory_TB.v|
+!i113 1
+R3
+R4
+n@data@memory_@t@b
+vEX_MEM
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 ]HLHlL@ESobLhH7@XEkMZ3
+ILW1ZDDA5Xb0eH03n3UP:a3
+R1
+w1764562602
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/EX_MEM.V
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/EX_MEM.V
+L0 4
+R2
+!s108 1764576673.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/EX_MEM.V|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/EX_MEM.V|
+!i113 1
+R3
+R4
+n@e@x_@m@e@m
+vFetch
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 az8koNXIa6J4DB=JD1AHW1
+I6mV:f0@_i`:_6C:L<6K8[2
+R1
+w1764560072
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/Fetch.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/Fetch.v
+L0 3
+R2
+!s108 1764576696.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/Fetch.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/Fetch.v|
+!i113 1
+R3
+R4
+n@fetch
+vID_EX
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 :>BCJl>@iiKVH4[z2o:M]3
+I>hb=oeliX`z6Ka3f1ikVg0
+R1
+w1764562562
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ID_EX.V
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ID_EX.V
+L0 3
+R2
+!s108 1764576699.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ID_EX.V|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ID_EX.V|
+!i113 1
+R3
+R4
+n@i@d_@e@x
+vIF_ID
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 C<J62WF`bCaaLb5OSDRDA3
+I_Lf<S4h:Tcc6<5@FeUdA91
+R1
+w1764562470
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/IF_ID.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/IF_ID.v
+L0 3
+R2
+!s108 1764576708.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/IF_ID.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/IF_ID.v|
+!i113 1
+R3
+R4
+n@i@f_@i@d
+vInstructionMemory
+Z6 !s110 1764578772
+!i10b 1
+!s100 7_gdL8HQ>@I:b>=5<ffG<2
+I0[z_19W[_Y`WIb@Lc]T:_1
+R0
+R1
+w1764578568
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/InstructionMemory.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/InstructionMemory.v
+L0 4
+R2
+r1
+!s85 0
+31
+Z7 !s108 1764578772.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/InstructionMemory.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/InstructionMemory.v|
+!i113 1
+R3
+R4
+n@instruction@memory
+vInstructionMemory_TB
+R6
+!i10b 1
+!s100 Rd<Rlfah?OB;SNl8QBlbQ2
+IMk`;<4z;bA=ooB^fY77540
+R0
+R1
+w1764578408
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/InstructionMemory_TB.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/InstructionMemory_TB.v
+L0 4
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/InstructionMemory_TB.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/InstructionMemory_TB.v|
+!i113 1
+R3
+R4
+n@instruction@memory_@t@b
+vMEM_WB
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 R?GR=7@7SAU4=2N=^zzR[3
+IEQOm[gnOgelNe`AVCIl7_2
+R1
+w1764562632
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MEM_WB.V
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MEM_WB.V
+L0 4
+R2
+!s108 1764576721.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MEM_WB.V|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MEM_WB.V|
+!i113 1
+R3
+R4
+n@m@e@m_@w@b
+vMIPS32
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 >nbn9_bS;]X2b]n8NnDc]3
+IfShTI1o8<PcCC[[k_IK;S2
+R1
+w1764577973
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MIPS_32.V
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MIPS_32.V
+L0 3
+R2
+!s108 1764577983.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MIPS_32.V|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MIPS_32.V|
+!i113 1
+R3
+R4
+n@m@i@p@s32
+vMIPS32_TB
+!s110 1764610017
+!i10b 1
+!s100 @?KE>=nO_i?Ah@H13f:J23
+IB]SPAo]:J?aN36A=QT>K;3
+R0
+R1
+w1764610002
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MIPS_32_TB.V
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MIPS_32_TB.V
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1764610016.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MIPS_32_TB.V|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MIPS_32_TB.V|
+!i113 1
+R3
+R4
+n@m@i@p@s32_@t@b
+vMux2
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 >J3zhDkE3G5Z59O0Oo?Zl2
+I]0LM56J5GPV4hAH>z5RMN3
+R1
+w1764563476
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MUX2.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MUX2.v
+L0 2
+R2
+!s108 1764576790.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MUX2.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/MUX2.v|
+!i113 1
+R3
+R4
+n@mux2
+vPC
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 em@cGO:Q^3<gBZAH0;of[1
+I16mz:3lm>`lz@c7UonH:63
+R1
+w1764553327
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/PC.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/PC.v
+L0 3
+R2
+!s108 1764576724.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/PC.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/PC.v|
+!i113 1
+R3
+R4
+n@p@c
+vRegisterFile
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 aZ`Zg^IhCUYFbHNPF`SS?3
+Ii@Q=gEb_JUAi0b1EGb5mK0
+R1
+w1764560638
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/RegisterFile.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/RegisterFile.v
+L0 3
+R2
+!s108 1764576727.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/RegisterFile.v|
+!i113 1
+R3
+R4
+n@register@file
+vRegisterFile_TB
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 kP?Ll^ePi^@NjR3LK3Wa60
+ISIKMZBLCAjWW:QU^K5[FY3
+R1
+w1764560844
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/RegisterFile_TB.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/RegisterFile_TB.v
+L0 5
+R2
+Z8 !s108 1764576636.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/RegisterFile_TB.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/RegisterFile_TB.v|
+!i113 1
+R3
+R4
+n@register@file_@t@b
+vShiftLeft2
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 1fM2M7L_SjgjDM6]T0ET?3
+IjUb2z1i^HP8D_XC4CjzWi2
+R1
+w1764561705
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ShiftLeft2.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ShiftLeft2.v
+L0 3
+R2
+!s108 1764576744.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ShiftLeft2.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ShiftLeft2.v|
+!i113 1
+R3
+R4
+n@shift@left2
+vShiftLeft2_TB
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 >=n9AFNGb=fOK7[SPdX`i0
+IHKF]CPEP@JlNi0ZeJ]9^;3
+R1
+w1764562252
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ShiftLeft2_TB.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ShiftLeft2_TB.v
+L0 4
+R2
+R8
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ShiftLeft2_TB.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/ShiftLeft2_TB.v|
+!i113 1
+R3
+R4
+n@shift@left2_@t@b
+vSignExtend
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 Gl^]T;H<2dCF<z2eZk6=83
+IOhLHg5Lj2HU[D2[;LH9zI3
+R1
+w1764561622
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/SignedExtend.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/SignedExtend.v
+L0 4
+R2
+!s108 1764576751.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/SignedExtend.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/SignedExtend.v|
+!i113 1
+R3
+R4
+n@sign@extend
+vSignExtend_TB
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 MVE2QGoO`zJAm3=EBVH5W1
+ISBkhK61iMzb[U0okD2^>;0
+R1
+w1764561676
+8D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/SignedExtend_TB.v
+FD:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/SignedExtend_TB.v
+L0 4
+R2
+!s108 1764576777.000000
+!s107 D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/SignedExtend_TB.v|
+!s90 -reportprogress|300|-work|work|D:/Storage/School/CUCEI/4to/5.- Aquitectura de computadoras/Arquitectura_de_Computadoras/Practicas/Proyecto/SignedExtend_TB.v|
+!i113 1
+R3
+R4
+n@sign@extend_@t@b
