@@ -1,54 +1,35 @@
-// Suma y conteo de números positivos y pares en un arreglo
-// Layout de memoria:
-//  0..7  : array[0..7]
-//  8     : N (tamaño del array)
-//  9     : sum
-//  10    : count
+// MAX/MIN arreglo de N enteros
+// Mem[0]  = N
+// Mem[4+] = elementos (palabras consecutivas)
 
-// Convención de registros (todos numéricos):
-//  $30 : base de datos (0)
-//  $29 : N
-//  $28 : sum
-//  $27 : count
-//  $26 : i (índice)
-//  $25 : valor actual array[i]
-//  $24 : tmp_paridad
-//  $23 : tmp_cmp
-//  $22 : dirección temporal
+LW   $2, 0($0)        // $2 = N
+LW   $4, 4($0)        // $4 = a[0]
+ADD  $5, $4, $0       // $5 = max = a[0]
+ADD  $6, $4, $0       // $6 = min = a[0]
+ADDI $1, $0, 1        // $1 = i = 1
+ADDI $3, $0, 8        // $3 = ptr = &a[1] (direccion 8)
 
-//Inicialización
-ADDI $30, $0, 0      // $30 = base de datos (0)
-LW   $29, 32($30)    // $29 = N (palabra en byte offset 32)
-ADDI $28, $0, 0      // $28 = sum = 0
-ADDI $27, $0, 0      // $27 = count = 0
-ADDI $26, $0, 0      // $26 = i = 0
+// ---- LOOP (comienza en la instrucción 6) ----
+BEQ  $1, $2, 10       // si i == N  -> salta 10 instr (va a la zona END)
+LW   $4, 0($3)        // $4 = val = *ptr
 
-//LOOP (instr 5)
-BEQ  $26, $29, 12    // si i == N, salto a 'fin' (offset = 12 instrucciones)
+// actualiza MAX si val > max
+SLT  $7, $5, $4       // $7 = 1 si max < val
+BEQ  $7, $0, 1        // si $7 == 0, salta la siguiente
+ADD  $5, $4, $0       // max = val
 
-// calcular &array[i]
-SLL  $22, $26, 2     // $22 = i * 4
-ADD  $22, $22, $30   // $22 = base + i*4
-LW   $25, 0($22)     // $25 = array[i]
+// actualiza MIN si val < min
+SLT  $7, $4, $6       // $7 = 1 si val < min
+BEQ  $7, $0, 1        // si $7 == 0, salta la siguiente
+ADD  $6, $4, $0       // min = val
 
-//Checar si es positivo (>0)
-SLTI $23, $25, 1     // $23 = 1 si $25 < 1, 0 si $25 >= 1
-BEQ  $23, $0, 1      // si $25 >= 1 (positivo), saltar 1 instrucción a check_even
-J    16              // si no es positivo, brincar a next_i (instr 16)
+ADDI $1, $1, 1        // i++
+ADDI $3, $3, 4        // ptr += 4 (siguiente elemento)
+J    6                // vuelve a la instrucción 6 (inicio del loop)
 
-//check_even (instr 12)
-ANDI $24, $25, 1     // $24 = $25 & 1
-BNE  $24, $0, 2      // si impar (bit0=1), saltar 2 instrucciones a next_i
-ADD  $28, $28, $25   // sum += valor
-ADDI $27, $27, 1     // count++
-
-//next_i (instr 16)
-ADDI $26, $26, 1     // i++
-J    5               // volver al inicio del loop (instr 5)
-
-//fin (instr 18)
-SW   $28, 36($30)    // sum   -> palabra en byte offset 36
-SW   $27, 40($30)    // count -> palabra en byte offset 40
-
-// bucle infinito final (instr 20)
-J    20              // salto a sí mismo
+// ---- END (comienza en la instrucción 17) ----
+ADD  $30, $5, $0      // copia max en $30 (por si lo quieres ver directo)
+ADD  $29, $6, $0      // copia min en $29
+SW   $30, #25     // guarda max  en Mem[25]
+SW   $29, #26     // guarda min  en Mem[26]
+J    21               // bucle infinito en la misma instrucción (halt casero)

@@ -10,7 +10,7 @@ module Fetch(clk, reset, PCSrc, BranchAddr, Instr, PC_current, PC_add4);
     input [31:0] BranchAddr;
 
     output [31:0] Instr;      // Instruccion de 32 bits obtenida
-    output [31:0] PC_current;  // PC actual (direccion de la instruccion)
+    output [31:0] PC_current;  // PC actual
     output [31:0] PC_add4;    // PC + 4, para usar en la etapa de decode/execute
 
     // 2.- Componentes internos
